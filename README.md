@@ -1,4 +1,4 @@
-# DataScience
+# DataScience - Ciencia de Dados
 
 Coleção de Projetos voltados a Data Science, elaborados em Python.
 
@@ -7,3 +7,4 @@ Coleção de Projetos voltados a Data Science, elaborados em Python.
 - Previsão_acoes: *Script para tentar prever o preço de uma determinada ação n dias a frente, usando x valores anteriores. Usado Recurrent neural network para tentar prever o valor*
 
 - Processamento_Linguagem_Natural: *Script para treinar uma Recurrent Neural Network que tenta prever se o texto é positivo, negativo ou neutro.*
+
